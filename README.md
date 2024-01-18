@@ -1,7 +1,10 @@
 # Pokedex Thunk
 
-In today's project you will configure an existing application to use thunk
-actions.
+
+![Pokedex](https://github.com/haolam05/Pokedex/assets/71291057/1ca4037c-82c1-477a-8a86-f3c0c10dff78)
+
+
+In today's project you will configure an existing application to use thunk actions.
 
 ## Phase 0: Getting started
 
